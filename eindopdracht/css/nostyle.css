@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css?family=Cedarville+Cursive&display=swap');
+
+h1 {
+	font-family:"Cedarville Cursive", helvetica, sans-serif, geneva;
+	font-size: 3em;
+	font-weight: bold;
+	color: white;
+}
+
+h2 { 
+	font-family: arial, helvetica, sans-serif, geneva;
+	font-size: 2em;
+	font-weight: bold;
+	color: white;
+	}
+
+p {
+	font-family: arial, helvetica, sans-serif, geneva;
+	font-size: 1em;
+	font-weight: bold;
+	color: white;
+	
+}
+
+p.bijschrift {
+	font-family: arial, helvetica, sans-serif, geneva;
+	font-size: 1em;
+	font-weight: bold;
+	color: white;
+}
+
+a {
+	font-family: arial, helvetica, sans-serif, geneva;
+	font-size: 1em;
+	font-weight: bold;
+	color: white;
+}
+
+/* style de video */
+video {	
+	position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+	min-width: 100%;
+	min-height: 100%;
+	align-items: center;
+}
+
+@media screen and (min-width: 1280px),  (min-width: 481px) and (max-width: 1179px), (max-width: 480px) {
+img.sportfoto {
+	width: 60%;
+	height: auto;
+	display: block;
+	z-index: -1;
+}
+}
+
+@media screen and (min-width: 1280px),  (min-width: 481px) and (max-width: 1179px), (max-width: 480px) {
+img.sfeerfoto {
+	width: 45%;
+	height: auto;
+	z-index: 1;
+}
+}
+
+legend {
+	font-family: arial, helvetica, sans-serif, geneva;
+	font-size: 1em;
+	font-weight: bold;
+	color: #DDECEC;
+}
+
+button {
+	padding: 7px 9px;
+	margin: 10px 1px;
+	display: block;
+	font-family: arial, helvetica, sans-serif, geneva;
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #444444;
+	border: none;
+	cursor: pointer;
+	font-weight: bold;
+	color: white;
+}
+
+footer.footer1 {
+	font-family: arial, helvetica, sans-serif, geneva;
+	font-size: 1em;
+	color: #707070
+	color: white;
+}
+
+footer.foote2 {
+	font-family: arial, helvetica, sans-serif, geneva;
+	font-size: 1em;
+	color: ##110404EB
+	color: white;
+}
+
+footer.footer3 {
+	font-family: arial, helvetica, sans-serif, geneva;
+	font-size: 1em;
+	color: ##4110BEB
+	color: white;
+}
+
+footer.footer4 {
+	font-family: arial, helvetica, sans-serif, geneva;
+	font-size: 1em;
+	color: #140CE8
+	color: white;
+}
+

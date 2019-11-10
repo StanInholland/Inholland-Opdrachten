@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Cedarville+Cursive&display=swap');
+
+h1 { 
+	color: blue; 
+	}
+
+h2 { 
+	color: red; 
+	}
+
+p  { 
+	color: gray; 
+	}
+
+body { 
+	background-color: yellow; 
+	}
+
+header {
+	font-family:"Cedarville Cursive";
+	font-size: 10vw;
+	color: #0000FF;
+	font-variant: small-caps;
+	{
+p .pinkpanther
+{
+	color : #F0F;
+}
+p.hulk
+{
+	color : #0F0;
+}
