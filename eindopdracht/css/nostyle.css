@@ -36,7 +36,7 @@ a {
 	color: white;
 }
 
-/* style de video */
+/* Stijl van de video */
 video {	
 	position: fixed;
     top: 0;
@@ -85,34 +85,42 @@ button {
 	border: none;
 	cursor: pointer;
 	font-weight: bold;
+	color: lightgrey;
+}
+
+button:hover {
 	color: white;
+}
+
+button:visited {
+	color: grey;
 }
 
 footer.footer1 {
 	font-family: arial, helvetica, sans-serif, geneva;
 	font-size: 1em;
-	color: #707070
+	color: #707070;
 	color: white;
 }
 
-footer.foote2 {
+footer.footer2 {
 	font-family: arial, helvetica, sans-serif, geneva;
 	font-size: 1em;
-	color: ##110404EB
+	color: ##110404EB;
 	color: white;
 }
 
 footer.footer3 {
 	font-family: arial, helvetica, sans-serif, geneva;
 	font-size: 1em;
-	color: ##4110BEB
+	color: ##4110BEB;
 	color: white;
 }
 
 footer.footer4 {
 	font-family: arial, helvetica, sans-serif, geneva;
 	font-size: 1em;
-	color: #140CE8
+	color: #140CE8;
 	color: white;
 }
 
