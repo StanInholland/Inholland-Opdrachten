@@ -1,16 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+    	 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+     	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     	 xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
-  <loc>http://taekwon.eu/651122/</loc>
-  <lastmod>2019-11-10T22:02:41+00:00</lastmod>
+  	<loc>http://taekwon.eu/651122/</loc>
+  	<lastmod>2019-11-10T22:02:41+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>10.0</priority>
 </url>
 
+<url>
+	<loc>https://www.taekwon.nl/brazilian-jiu-jitsu/</loc>
+	<lastmod>2019-11-10</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>1.0</priority>
+</url>
+
+<url>
+	<loc>https://zcfc.nl/vernieuwde-website/</loc>
+	<lastmod>2019-11-10</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.1</priority>
+</url>
+
+<url>
+	<loc>http://www.kvfurore.nl/</loc>
+	<lastmod>2019-11-10</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.2</priority>
+</url>
+
+<url>
+	<loc>https://www.judoschoolrandori.nl/home.html</loc>
+	<lastmod>2019-11-10</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.3</priority>
+</url>
+
+<url>
+	<loc>https://www.sportcentrumdeclub.nl/vechtsporten/</loc>
+	<lastmod>2019-11-10</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.4</priority>
+</url>
+
+<url>
+	<loc>http://shiseikrommenie.nl/</loc>
+	<lastmod>2019-11-10</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+
+<url>
+	<loc>https://odizfrogs.nl/</loc>
+	<lastmod>2019-11-10</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.6</priority>
+</url>
+
+<url>
+	<loc>https://www.vvzaanstad.nl/</loc>
+	<lastmod>2019-11-10</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.7</priority>
+</url>
+
+<url>
+	<loc>https://www.fortuna-wormerveer.nl/</loc>
+	<lastmod>2019-11-10</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.8</priority>
+</url>
+
+<url>
+	<loc>https://www.team-schreiber.com/</loc>
+	<lastmod>2019-11-10</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.9</priority>
+</url>
 
 </urlset>

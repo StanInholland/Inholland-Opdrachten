@@ -52,7 +52,7 @@ video {
 
 @media screen and (min-width: 1280px),  (min-width: 481px) and (max-width: 1179px), (max-width: 480px) {
 img.sportfoto {
-	width: 60%;
+	width: 50%;
 	height: auto;
 	display: block;
 	z-index: -1;
